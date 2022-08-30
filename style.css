@@ -18,6 +18,10 @@
   padding: 10px 20px;
   border-radius: 5px;
   color: #fff;
+  transition: all 0.1s linear;
+}
+.custom-btn:hover {
+  filter: brightness(1.1);
 }
 .cat-1,
 .cat-2,
